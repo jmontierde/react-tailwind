@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div>
-      <div className="container flex flex-col-reverse md:flex-row mx-auto px-6 mt-10 mb-0  align-center md:space-y-0">
+      <div className="container flex flex-col-reverse md:flex-row mx-auto px-6 mt-10 mb-0 align-center md:space-y-0">
         <div className='flex flex-col space-y-12 text-center md:w-1/2'>
             <h1 className='max-w-md text-2xl md:text-4xl md:text-left font-bold'>
               Bring everyone <br /> together to build <br /> better products.
